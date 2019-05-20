@@ -5,7 +5,7 @@ Don't open, data inside
 ## What it's walking distance?
 "Walking distance" is defined as the distance that can be travelled by walking in a reasonable amount of time. 
 
-In this project, we analyse this distance within any neighbourhood from Natal, Brazil. Thus, we are able to evaluate the pedestrian experience at the city.
+In this project, we analyse this distance within any neighbourhood from Natal, Brazil. Thus, we are able to evaluate the pedestrian accessibility at the city.
 
 ## Analysis
 
