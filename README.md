@@ -9,6 +9,8 @@ In this project, we analyse this distance within any neighbourhood from Natal, B
 
 ## Analysis
 
+The full analysis can be found in this [Medium post](https://medium.com/@mayradazevedo/ate-onde-e-posivel-chegar-a-pe-em-natal-4e50d1e46685).
+
 ## Autorship
 [<img alt="nymarya" src="https://avatars1.githubusercontent.com/u/23341788?v=2&s=50" width=50>](https://github.com/nymarya) |
 [<img alt="cruxiu"  src="https://avatars3.githubusercontent.com/u/19611403?v=2&s=50" width=50>](https://github.com/anunciado) |
